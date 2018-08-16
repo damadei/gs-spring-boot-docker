@@ -11,7 +11,7 @@ public class Application {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello Docker World on Azure! - build via Jenkins!";
+        return "Hello Docker World on Azure!! - Cambio en Vivo y Build via Jenkins ";
     }
 
     public static void main(String[] args) {
